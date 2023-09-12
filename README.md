@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+#### 🏴‍☠️ My Languages
+.html, .js, .css, .vue, .svelte, .ts, .tsx, .rs, .java, .python, .cpp, .sh,
+
 <!--
 **juliuslipp/juliuslipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
